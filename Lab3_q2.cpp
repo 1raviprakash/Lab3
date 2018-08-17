@@ -13,7 +13,7 @@ substract = a - b; //givesthe difference
 product= a * b; //gives product
 division= a / b; //divides the numbers
 remainder= a % b;// remainder of division
-cout << "numbers are"<< a << b << endl;
+cout << "numbers are"<< a << " and " << b  << endl;
 cout << "sum is" << sum << endl;
 cout << "difference" << substract << endl;
 cout << "product is" << product << endl;
